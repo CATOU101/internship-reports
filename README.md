@@ -29,7 +29,7 @@ During this internship, I:
 
 ### **Week 2**
 **Goal:** Explore advanced prompt engineering techniques, error handling, and small projects.
-- [Week 2 – Advanced Prompt Engineering Techniques](Week%202/Week_2_Advanced_Prompt_Engineering_Techniques.pdf)  
+- [Week 2 – Advanced Prompt Engineering Techniques](Week%202/Week_2_Advanced Prompt Engineering Techniques.pdf)  
   *Advanced methods like chain-of-thought prompting, role prompting, and few-shot learning.*
 - [Week 2 – Assignment with Error Handling](Week%202/Week_2_Assignment_with_Error_Handling.pdf)  
   *A **calculator program** implemented with error handling, ensuring safe and reliable operations.*
