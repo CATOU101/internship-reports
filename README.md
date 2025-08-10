@@ -56,11 +56,11 @@ The assistant can:
 - Provide consistent formatting and structured outputs.
 
 **Project Documents:**
-- [AI Assistant – Functionality Overview](Major%20Project%20Documents/AI%20Assistant%20Functionality%20Overview.pdf)  
+- [AI Assistant – Functionality Overview](Major%20Project%20Documents/AI%20Assistant%20-%20Functionality%20Overview.pdf)  
   *Summary of features and capabilities.*
-- [AI Assistant – Project Documentation](Major%20Project%20Documents/AI%20Assistant%20Project%20Documentation.pdf)  
+- [AI Assistant – Project Documentation](Major%20Project%20Documents/AI%20Assistant%20-%20Project%20Documentation.pdf)  
   *Technical details on development, design, and implementation.*
-- [AI Assistant – User Guide](Major%20Project%20Documents/AI%20Assistant%20User%20Guide.pdf)  
+- [AI Assistant – User Guide](Major%20Project%20Documents/AI%20Assistant%20-%20User%20Guide.pdf)  
   *Instructions for running and interacting with the assistant.*
 - [Prompt Design and Web Interface Output](Major%20Project%20Documents/Prompt%20Design%20and%20Web%20Interface%20Output.pdf)  
   *Examples of prompt inputs and their outputs in the web interface.*
@@ -72,9 +72,9 @@ The assistant can:
 ## 🗂 Folder Structure
 
 ### 📦 Major Project Documents
-- [AI_Assistant_Functionality_Overview.pdf](Major%20Project%20Documents/AI%20Assistant%20Functionality%20Overview.pdf)  
-- [AI_Assistant_Project_Documentation.pdf](Major%20Project%20Documents/AI%20Assistant%20Project%20Documentation.pdf)  
-- [AI_Assistant_User_Guide.pdf](Major%20Project%20Documents/AI%20Assistant%20User%20Guide.pdf)  
+- [AI_Assistant_Functionality_Overview.pdf](Major%20Project%20Documents/AI%20Assistant%20-%20Functionality%20Overview.pdf)  
+- [AI_Assistant_Project_Documentation.pdf](Major%20Project%20Documents/AI%20Assistant%20-%20Project%20Documentation.pdf)  
+- [AI_Assistant_User_Guide.pdf](Major%20Project%20Documents/AI%20Assistant%20-%20User%20Guide.pdf)  
 - [Prompt_Design_and_Web_Interface_Output.pdf](Major%20Project%20Documents/Prompt%20Design%20and%20Web%20Interface%20Output.pdf)  
 - [Story_Idea_Generator.pdf](Major%20Project%20Documents/Story%20Idea%20Generator.pdf)  
 
