@@ -94,7 +94,7 @@ The assistant can:
 ### 📦 AI Assistant Source Code
 - [app.py](ai_assistant/app.py) — Main FastAPI application script.  
 - [requirements.txt](ai_assistant/requirements.txt) — Python dependencies for setting up the environment.  
-- [log_feedback.txt](ai_assistant/log_feedback.txt) — Log file storing user feedback from the assistant.  
+- [feedback_log.txt](ai_assistant/feedback_log.txt) — Log file storing user feedback from the assistant.  
 - **templates/** — HTML templates for the web interface.  
   - [index.html](ai_assistant/templates/index.html) — Main webpage for the AI Assistant interface.  
 ---
