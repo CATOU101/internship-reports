@@ -29,20 +29,20 @@ During this internship, I:
 
 ### **Week 2**
 **Goal:** Explore advanced prompt engineering techniques, error handling, and small projects.
-- [Week 2 – Advanced Prompt Engineering Techniques](Week%202/Week_2_Advanced Prompt Engineering Techniques.pdf)  
+- [Week 2 – Advanced Prompt Engineering Techniques](Week%202/Week_2_Advanced%20Prompt%20Engineering%20Techniques.pdf)  
   *Advanced methods like chain-of-thought prompting, role prompting, and few-shot learning.*
-- [Week 2 – Assignment with Error Handling](Week%202/Week_2_Assignment_with_Error_Handling.pdf)  
+- [Week 2 – Assignment with Error Handling](Week%202/Week_2_Assignment%20with%20Error%20Handling.pdf)  
   *A **calculator program** implemented with error handling, ensuring safe and reliable operations.*
-- [Week 2 – Assignment using Prompt Variability](Week%202/Week_2_Assignment_using_Prompt_Variability.pdf)  
+- [Week 2 – Assignment using Prompt Variability](Week%202/Week_2_Assignment%20using%20Prompt%20Variability.pdf)  
   *Experimenting with multiple prompt styles to compare model outputs.*
-- [Week 2 – Design and Experiment](Week%202/Week_2_Design_and_Experiment.pdf)  
+- [Week 2 – Design and Experiment](Week%202/Week_2_Design%20and%20Experiment.pdf)  
   *Structured experiments to test prompt formats and response quality.*
 
 ---
 
 ### **Week 3**
 **Goal:** Practical application of prompt engineering in a real-world use case.
-- [Week 3 – Prompt Engineering Practice](Week%203/Week_3_Prompt_Engineering_Practice.pdf)  
+- [Week 3 – Prompt Engineering Practice](Week%203/Week_3_Prompt%20Engineering%20Practice.pdf)  
   *Hands-on exercises combining techniques from previous weeks for a mini-project.*
 
 ---
@@ -56,15 +56,15 @@ The assistant can:
 - Provide consistent formatting and structured outputs.
 
 **Project Documents:**
-- [AI Assistant – Functionality Overview](Major%20Project%20Documents/AI_Assistant_Functionality_Overview.pdf)  
+- [AI Assistant – Functionality Overview](Major%20Project%20Documents/AI%20Assistant%20Functionality%20Overview.pdf)  
   *Summary of features and capabilities.*
-- [AI Assistant – Project Documentation](Major%20Project%20Documents/AI_Assistant_Project_Documentation.pdf)  
+- [AI Assistant – Project Documentation](Major%20Project%20Documents/AI%20Assistant%20Project%20Documentation.pdf)  
   *Technical details on development, design, and implementation.*
-- [AI Assistant – User Guide](Major%20Project%20Documents/AI_Assistant_User_Guide.pdf)  
+- [AI Assistant – User Guide](Major%20Project%20Documents/AI%20Assistant%20User%20Guide.pdf)  
   *Instructions for running and interacting with the assistant.*
-- [Prompt Design and Web Interface Output](Major%20Project%20Documents/Prompt_Design_and_Web_Interface_Output.pdf)  
+- [Prompt Design and Web Interface Output](Major%20Project%20Documents/Prompt%20Design%20and%20Web%20Interface%20Output.pdf)  
   *Examples of prompt inputs and their outputs in the web interface.*
-- [Story Idea Generator](Major%20Project%20Documents/Story_Idea_Generator.pdf)  
+- [Story Idea Generator](Major%20Project%20Documents/Story%20Idea%20Generator.pdf)  
   *A creative writing tool built using prompt engineering principles (Mini project).*
 
 ---
@@ -72,24 +72,24 @@ The assistant can:
 ## 🗂 Folder Structure
 
 ### 📦 Major Project Documents
-- [AI_Assistant_Functionality_Overview.pdf](Major%20Project%20Documents/AI_Assistant_Functionality_Overview.pdf)  
-- [AI_Assistant_Project_Documentation.pdf](Major%20Project%20Documents/AI_Assistant_Project_Documentation.pdf)  
-- [AI_Assistant_User_Guide.pdf](Major%20Project%20Documents/AI_Assistant_User_Guide.pdf)  
-- [Prompt_Design_and_Web_Interface_Output.pdf](Major%20Project%20Documents/Prompt_Design_and_Web_Interface_Output.pdf)  
-- [Story_Idea_Generator.pdf](Major%20Project%20Documents/Story_Idea_Generator.pdf)  
+- [AI_Assistant_Functionality_Overview.pdf](Major%20Project%20Documents/AI%20Assistant%20Functionality%20Overview.pdf)  
+- [AI_Assistant_Project_Documentation.pdf](Major%20Project%20Documents/AI%20Assistant%20Project%20Documentation.pdf)  
+- [AI_Assistant_User_Guide.pdf](Major%20Project%20Documents/AI%20Assistant%20User%20Guide.pdf)  
+- [Prompt_Design_and_Web_Interface_Output.pdf](Major%20Project%20Documents/Prompt%20Design%20and%20Web%20Interface%20Output.pdf)  
+- [Story_Idea_Generator.pdf](Major%20Project%20Documents/Story%20Idea%20Generator.pdf)  
 
 ### 📦 Week 1 (July 1 – July 7)
 - [Week1_Assignment_1.pdf](Week%201/Week_1_Assignment_1.pdf) — PPT Overview  
 - [Week1_Assignment_2.pdf](Week%201/Week_1_Assignment_2.pdf) — Simple Python Code  
 
 ### 📦 Week 2 (July 8 – July 14)
-- [Week_2_Advanced_Prompt_Engineering_Techniques.pdf](Week%202/Week_2_Advanced_Prompt_Engineering_Techniques.pdf)  
-- [Week_2_Assignment_with_Error_Handling.pdf](Week%202/Week_2_Assignment_with_Error_Handling.pdf) — Calculator with Error Handling  
-- [Week_2_Assignment_using_Prompt_Variability.pdf](Week%202/Week_2_Assignment_using_Prompt_Variability.pdf)  
-- [Week_2_Design_and_Experiment.pdf](Week%202/Week_2_Design_and_Experiment.pdf)  
+- [Week_2_Advanced_Prompt_Engineering_Techniques.pdf](Week%202/Week_2_Advanced%20Prompt%20Engineering%20Techniques.pdf)  
+- [Week_2_Assignment_with_Error_Handling.pdf](Week%202/Week_2_Assignment%20with%20Error%20Handling.pdf) — Calculator with Error Handling  
+- [Week_2_Assignment_using_Prompt_Variability.pdf](Week%202/Week_2_Assignment%20using%20Prompt%20Variability.pdf)  
+- [Week_2_Design_and_Experiment.pdf](Week%202/Week_2_Design%20and%20Experiment.pdf)  
 
 ### 📦 Week 3 (July 15 – July 21)
-- [Week_3_Prompt_Engineering_Practice.pdf](Week%203/Week_3_Prompt_Engineering_Practice.pdf)  
+- [Week_3_Prompt_Engineering_Practice.pdf](Week%203/Week_3_Prompt%20Engineering%20Practice.pdf)  
 
 ---
 
