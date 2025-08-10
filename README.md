@@ -70,23 +70,25 @@ The assistant can:
 ---
 
 ## 🗂 Folder Structure
-├── Major Project Documents/
-│   ├── AI_Assistant_Functionality_Overview.pdf
-│   ├── AI_Assistant_Project_Documentation.pdf
-│   ├── AI_Assistant_User_Guide.pdf
-│   ├── Prompt_Design_and_Web_Interface_Output.pdf
-│   └── Story_Idea_Generator.pdf
-├── Week 1/
-│   ├── Week1_Assignment_1.pdf   # PPT overview
-│   └── Week1_Assignment_2.pdf   # Simple Python code
-├── Week 2/
-│   ├── Week_2_Advanced_Prompt_Engineering_Techniques.pdf
-│   ├── Week_2_Assignment_with_Error_Handling.pdf  # Calculator with error handling
-│   ├── Week_2_Assignment_using_Prompt_Variability.pdf
-│   └── Week_2_Design_and_Experiment.pdf
-├── Week 3/
-│   └── Week_3_Prompt_Engineering_Practice.pdf
-└── README.md
+📦 Major Project Documents
+ ├── AI_Assistant_Functionality_Overview.pdf  
+ ├── AI_Assistant_Project_Documentation.pdf  
+ ├── AI_Assistant_User_Guide.pdf  
+ ├── Prompt_Design_and_Web_Interface_Output.pdf  
+ └── Story_Idea_Generator.pdf  
+
+📦 Week 1  (July 1 – July 7)
+ ├── Week1_Assignment_1.pdf  # PPT Overview  
+ └── Week1_Assignment_2.pdf  # Simple Python Code  
+
+📦 Week 2  (July 8 – July 14)
+ ├── Week_2_Advanced_Prompt_Engineering_Techniques.pdf  
+ ├── Week_2_Assignment_with_Error_Handling.pdf  # Calculator with Error Handling  
+ ├── Week_2_Assignment_using_Prompt_Variability.pdf  
+ └── Week_2_Design_and_Experiment.pdf  
+
+📦 Week 3  (July 15 – July 21)
+ └── Week_3_Prompt_Engineering_Practice.pdf  
 ---
 
 ## 📜 License
