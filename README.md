@@ -20,9 +20,9 @@ During this internship, I:
 
 ### **Week 1**
 **Goal:** Introduction to prompt engineering fundamentals and basic coding.
-- [Week 1 – Assignment 1](Week%201/Week1_Assignment_1.pdf)  
+- [Week 1 – Assignment 1](Week%201/Week_1_Assignment_1.pdf)  
   *PPT explaining the basics of prompt engineering, AI model behavior, and response control.*
-- [Week 1 – Assignment 2](Week%201/Week1_Assignment_2.pdf)  
+- [Week 1 – Assignment 2](Week%201/Week_1_Assignment_2.pdf)  
   *Simple Python code.*
 
 ---
@@ -79,8 +79,8 @@ The assistant can:
 - [Story_Idea_Generator.pdf](Major%20Project%20Documents/Story_Idea_Generator.pdf)  
 
 ### 📦 Week 1 (July 1 – July 7)
-- [Week1_Assignment_1.pdf](Week%201/Week1_Assignment_1.pdf) — PPT Overview  
-- [Week1_Assignment_2.pdf](Week%201/Week1_Assignment_2.pdf) — Simple Python Code  
+- [Week1_Assignment_1.pdf](Week%201/Week_1_Assignment_1.pdf) — PPT Overview  
+- [Week1_Assignment_2.pdf](Week%201/Week_1_Assignment_2.pdf) — Simple Python Code  
 
 ### 📦 Week 2 (July 8 – July 14)
 - [Week_2_Advanced_Prompt_Engineering_Techniques.pdf](Week%202/Week_2_Advanced_Prompt_Engineering_Techniques.pdf)  
