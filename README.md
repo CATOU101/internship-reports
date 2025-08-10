@@ -92,11 +92,11 @@ The assistant can:
 - [Week_3_Prompt_Engineering_Practice.pdf](Week%203/Week_3_Prompt%20Engineering%20Practice.pdf)  
 
 ### 📦 AI Assistant Source Code
-- [app.py](app.py) — Main FastAPI application script.  
-- [requirements.txt](requirements.txt) — Python dependencies for setting up the environment.  
-- [log_feedback.txt](log_feedback.txt) — Log file storing user feedback from the assistant.  
+- [app.py](ai_assistant/app.py) — Main FastAPI application script.  
+- [requirements.txt](ai_assistant/requirements.txt) — Python dependencies for setting up the environment.  
+- [log_feedback.txt](ai_assistant/log_feedback.txt) — Log file storing user feedback from the assistant.  
 - **templates/** — HTML templates for the web interface.  
-  - [index.html](templates/index.html) — Main webpage for the AI Assistant interface.  
+  - [index.html](ai_assistant/templates/index.html) — Main webpage for the AI Assistant interface.  
 ---
 ## 📜 License
 This repository is for **documentation purposes only**.  
